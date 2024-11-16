@@ -1,0 +1,16 @@
+Git Interview most ask quation.
+
+
+1) When we create Repo what are thing we need do for clone and commit and push.
+
+Describe the quation.
+
+Ans - When we  are clone clone repo form remote regstri like Git 
+
+Fist we cretae folder workspace like any Project Name or samething as per our needs
+
+git Init - git init doesn’t modify or delete any of your existing files. It simply adds version control capabilities to the folder.
+
+git add .  When you want to stage all changes in the current directory and its subdirectories
+
+
